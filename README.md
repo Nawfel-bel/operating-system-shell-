@@ -1,2 +1,3 @@
 # operating system shell 
  
+the main focus in this project was to create a server which recieves requests to connect by a client (which was intitialized to connect to a local host i.e on the same computer but can be edited to be on a different machine) and as soon as a connection is established the client can send functions or requests for information about the operating system of the server, the server then processes these requests and sends back the requested information. this code also supports piped functions and processes them as needed, it can support any number of pipes as needed.
